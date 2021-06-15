@@ -1,0 +1,13 @@
+﻿  glew.c
+  glewinfo.c
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\glewinfo.c(16413,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\glewinfo.c(16621,28): warning C4133: '=': incompatible types - from 'char [5]' to 'LPCWSTR'
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\glewinfo.c(16625,1): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\glewinfo.c(16693,25): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+  visualinfo.c
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\visualinfo.c(1096,28): warning C4133: '=': incompatible types - from 'char [5]' to 'LPCWSTR'
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\visualinfo.c(1101,1): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\src\visualinfo.c(1132,25): warning C4133: 'function': incompatible types - from 'char [5]' to 'LPCWSTR'
+  Generating Code...
+glewinfo.obj : warning LNK4006: main already defined in visualinfo.obj; second definition ignored
+  GLEW.vcxproj -> C:\Users\Giovanni\source\repos\CreateProjectAPCSP\Dependencies\GLEW\bin\Release-x86_64\GLEW\GLEW.lib
