@@ -1,4 +1,11 @@
 # AP CSP Create PT 2021
+  ![Start](images/start.png)
+ 
+ ![Play](images/play.png)
+
+![Game Over](images/checkmate.png)
+
+ 
  
  ## Build Instructions
 
@@ -12,8 +19,3 @@ The executable file along with the needed assets are in the "bin/" directory. Ma
 
 Please Note: _**only**_ x64 supported
 
- ![Start](images/start.png)
- 
- ![Play](images/play.png)
-
-![Game Over](images/checkmate.png)
